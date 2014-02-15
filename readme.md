@@ -10,6 +10,7 @@ A Python/Imagemagick utility for reuniting identical but misnamed images
 + Requires [Imagemagick](http://www.imagemagick.org/), probably at least version 6.8 
 + Original application only involved .png files of identical size; the matching uses the identify command's signature field, so you may want to [check other file types](http://www.imagemagick.org/script/identify.php)
 + Creating the output matching csv may require permissions
++ 'nix
 
 *Usage*
 + Pass two or three arguments: the location of the files, the regex for list A, and, optionally, the regex for list B
