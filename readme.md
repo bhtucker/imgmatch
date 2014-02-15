@@ -13,5 +13,5 @@ A Python/Imagemagick utility for reuniting identical but misnamed images
 
 *Usage*
 + Pass two or three arguments: the location of the files, the regex for list A, and, optionally, the regex for list B
-` python imgmatch.py filedir exp1 exp2 `
++ ` python imgmatch.py filedir exp1 exp2 `
 
